@@ -1,0 +1,105 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: white;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(../img/bg.jpg);
+  background-repeat: repeat;
+}
+
+.left_menu {
+  width: 16%;
+  height: 800px;
+  overflow: auto;
+  float: left;
+  background: #343434;
+}
+
+.richt_block {
+  width: 84%;
+  height: 800px;
+  overflow: auto;
+  padding: 0px;
+}
+
+.logo {
+  color: #707070;
+  background: #BEBEBE;
+  width: 100%;
+  height: auto;
+  margin-top: 0px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+.logo h1 {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 8px;
+  padding-bottom: 2px;
+}
+
+.logo h2 {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 2px;
+  padding-bottom: 8px;
+}
+
+.author {
+  color: white;
+  text-align: center;
+}
+
+.author h3 {
+  margin: 0px;
+  padding: 0px;
+  margin-top: 5px;
+}
+
+.author h4 {
+  margin: 0px;
+  padding: 0px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.author img {
+  width: 85%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: auto;
+}
+
+.menu {
+  color: white;
+  padding-left: 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+}
+
+.menu h4 {
+  padding: 0px;
+  text-align: left;
+  margin-left: 20px;
+  margin: 0px;
+  margin-top: 3px;
+}
+
+.footer {
+  background: #282828;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer h4 {
+  margin: 0px;
+  padding: 0px;
+}
